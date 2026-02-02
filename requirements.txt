@@ -1,0 +1,2 @@
+# Requires: recursive-impossibility
+# (Not available on PyPI)
